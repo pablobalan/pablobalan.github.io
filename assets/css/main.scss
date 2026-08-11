@@ -1,0 +1,105 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv"
+;
+/* Darker link blue (matches hannohilbig.com) */
+:root, html[data-theme="light"] {
+  --global-link-color: #3498db;
+  --global-link-color-hover: #{mix(#000, #3498db, 25%)};
+  --global-link-color-visited: #3498db;
+}
+
+/* Expandable abstracts on the research page */
+a.abstract-toggle {
+  cursor: pointer;
+  color: var(--global-link-color);
+}
+a.abstract-toggle::before { content: "["; color: var(--global-text-color); }
+a.abstract-toggle::after  { content: "]"; color: var(--global-text-color); }
+span.abstract-text {
+  display: none;
+}
+span.abstract-text.open {
+  display: block;
+  font-size: 0.85em;
+  text-align: justify;
+  margin: 0.4em 0 0.6em;
+  padding-left: 0.9em;
+  border-left: 3px solid var(--global-border-color);
+}
+
+/* Smaller side-note text (e.g., APSR fun fact) */
+.small-note {
+  font-size: 0.8em;
+}
+
+/* Dark red for journal names of new papers (homepage news) */
+.journal-red {
+  color: #c0392b;
+}
+
+/* Dark-mode variants of the custom colors */
+html[data-theme="dark"] {
+  --global-link-color: #5dade2;
+  --global-link-color-hover: #85c1e9;
+  --global-link-color-visited: #5dade2;
+}
+html[data-theme="dark"] .journal-red {
+  color: #e74c3c;
+}
+
+/* Justified body text */
+.page__content p,
+.page__content li {
+  text-align: justify;
+}
+
+/* Square profile photo with softened corners */
+.author__avatar img {
+  border-radius: 12px;
+}
+
+/* Paper titles: linked but not underlined (underline on hover only) */
+.page__content strong a,
+.page__content strong a:visited {
+  text-decoration: none;
+}
+
+.page__content strong a:hover {
+  text-decoration: underline;
+}
