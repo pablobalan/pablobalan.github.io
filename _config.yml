@@ -13,7 +13,7 @@ title                    : "Pablo Balán"
 title_separator          : "-"
 name                     : &name "Pablo Balán"
 description              : &description "Political scientist, Tel Aviv University"
-url                      : "https://pablobalan.github.io"
+url                      : "https://www.pablobalan.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pablobalan/pablobalan.github.io"
 
