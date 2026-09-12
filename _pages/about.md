@@ -33,3 +33,5 @@ Before pursuing graduate studies at Harvard, I co-authored a general-audience [b
 * March 4, 2026: PDRI-DevLab (UPenn)
 * April 23–26, 2026: Chicago (MPSA) (virtual)
 * April 29–May 1, 2026: Washington DC (World Bank Land Conference)
+* September 3–6, 2026: Boston (APSA)
+* September 17–18, 2026: Chicago (Stigler Fellows Annual Conference, Chicago Booth)
