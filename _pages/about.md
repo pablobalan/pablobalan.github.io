@@ -22,7 +22,6 @@ Before pursuing graduate studies at Harvard, I co-authored a general-audience [b
 * My article [Property Rights and Social Institutions in Urban Africa](/files/property-rights-cps-2026.pdf) is ahead of print in <strong><em class="journal-red">Comparative Political Studies</em></strong>. [Here's a general-audience summary](https://www.promarket.org/2026/07/29/property-rights-provide-an-exit-from-social-institutions/).
 * My article [Family Ties as Corporate Power](/files/family-ties-jop-2026.pdf) is ahead of print in the <strong><em class="journal-red">Journal of Politics</em></strong>. [Here's a general-audience summary](https://www.promarket.org/2023/07/24/family-ties-as-corporate-power/).
 * The Metaketa Initiative, of which I was a member, has received the 2026 Margaret Levi Award for the Advancement of Comparative Methodology from the APSA Comparative Politics Section.
-* February–March 2026: I was Visiting Research Fellow at the [American Institute for Economic Research (AIER)](https://aier.org/).
 
 ## Selected Recent and Upcoming Trips
 
