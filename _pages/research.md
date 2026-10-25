@@ -56,6 +56,8 @@ Media coverage: \[[VoxDev](https://voxdev.org/topic/public-economics/can-low-cap
 
 **Social Institutions and Programmatic Reform**. Book project.
 
+**Who Secures Property Under Contested Authority?** (with Heather Huntington and Juan F. Tellez)
+
 **Narratives and Market Exchange in Developing Countries** (with Juan Pedro Ronconi)
 
 ## Pre-PhD Publications (in Spanish)
