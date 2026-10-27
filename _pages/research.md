@@ -62,7 +62,7 @@ Media coverage: \[[VoxDev](https://voxdev.org/topic/public-economics/can-low-cap
 
 ## Pre-PhD Publications (in Spanish)
 
-**[Robert Dahl: Postfacio a un Teórico de la Democracia](/files/balan-dahl-2015.pdf)**. ***Desarrollo Económico***, 55(215), August 2015.<br>
+**[Robert Dahl: Postfacio a un Teórico de la Democracia](/files/balan-dahl-2015.pdf)**. <strong><em class="journal-red">Desarrollo Económico</em></strong>, 55(215), August 2015.<br>
 \[[Journal](https://www.jstor.org/stable/43748475)\]
 
 **[La República Pendiente: Argentina y el Problema del Desarrollo Político](https://lccn.loc.gov/2014510963)** (with Federico Tiberti). Buenos Aires, El Ateneo, 2014. A general-audience book declared of public interest by the Legislature of the City of Buenos Aires.<br>
